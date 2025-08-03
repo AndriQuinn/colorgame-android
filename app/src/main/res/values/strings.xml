@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Game</string>
+    <string name="play_txt">Play</string>
+    <string name="coin_icon_txt">coin icon</string>
+</resources>
